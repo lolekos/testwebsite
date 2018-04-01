@@ -1,0 +1,8 @@
+{
+    "name": "testwebsite",
+    "author": "Norbert 'Wuyashek' Jungto <norbertjungto@gmail.com>",
+    "dependencies": {
+        "express": "^4.16.3",
+        "express-prettify": "0.0.10"
+    }
+}
